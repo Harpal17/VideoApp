@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="video_player_poc">Video Player POC</string>
+    <string name="copyright_reserved_harpal_singh_2020">Copyright reserved : Harpal Singh @ 2020</string>
+</resources>
